@@ -28,6 +28,6 @@ I also learned how to use animations. I made the enemy follow the player and att
 
 Using these, I have developed a mini horror game. The cannibal follows us in a twisting maze and the player tries to run from the cannibal without dying. If the player reaches the end of the maze, then congrats, you have won the game!   
 ![zombie_maze](https://github.com/beyzacapraz/Mini-Game-Projects/blob/main/zombie_maze/zombie_maze%20(1).png?raw=true)
-![zombie_maze2]()
+![zombie_maze2](https://github.com/beyzacapraz/Mini-Game-Projects/blob/main/zombie_maze/zombie_maze%20(2).png?raw=true)
 
 **Updates will be provided.**
