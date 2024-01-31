@@ -19,6 +19,8 @@ The purpose was to collect the highest amounts of coins.  The yellow cubes repre
 If you hit the side walls, you also get -1 points. I also added the door mechanism and timer logic. If the player cannot get any coins within 5 seconds the game will restart.
 
 ![roll_a_ball](https://github.com/beyzacapraz/Mini-Game-Projects/blob/main/roll_a_ball/roll_a_ball%20(1).png?raw=true)
+>[roll_a_ball2](https://github.com/beyzacapraz/Mini-Game-Projects/blob/main/roll_a_ball/roll_a_ball%20(2).png?raw=true)
+>
 # Zombie Maze
 
 Following these, I moved on to creating a PC player, so I learned how to create a first-person controller, mouse movement, player movement, and health bar. 
