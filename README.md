@@ -27,5 +27,7 @@ Following these, I moved on to creating a PC player, so I learned how to create 
 I also learned how to use animations. I made the enemy follow the player and attack if the enemy came too close to the player using the navmesh attribute, a simple AI attribute that made the enemy follow the blue road with a constant velocity. I used a cannibal model and animations of it. Following these, I moved on to creating a PC player, so I learned how to create a first-person controller, mouse movement, player movement, and health bar. I also learned how to use animations. I made the enemy follow the player and attack if the enemy came too close to the player using the navmesh attribute, a simple AI attribute that made the enemy follow the blue road with a constant velocity.
 
 Using these, I have developed a mini horror game. The cannibal follows us in a twisting maze and the player tries to run from the cannibal without dying. If the player reaches the end of the maze, then congrats, you have won the game!   
+![zombie_maze](https://github.com/beyzacapraz/Mini-Game-Projects/blob/main/zombie_maze/zombie_maze%20(1).png?raw=true)
+![zombie_maze2]()
 
 **Updates will be provided.**
