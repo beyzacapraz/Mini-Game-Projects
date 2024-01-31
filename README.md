@@ -7,6 +7,8 @@
 After learning advanced rotation methods, quaternions, lerp, and slerp. Using these, I made a solar system representation that consists of planets, their satellites, and some meteors.
 While creating this game, I also learned how to add some assets and textures and make some texture graphics.
 
+![solar_system](https://github.com/beyzacapraz/Mini-Game-Projects/blob/main/solar_system/solar_system%20(1).png?raw=true)
+![solar_system2](https://github.com/beyzacapraz/Mini-Game-Projects/blob/main/solar_system/solar_system%20(1).png?raw=true)
 # Roll a Ball
 
 After learning the tools of Unity, scaling, organizing assets, creating objects, creating a player, movement of the player,
